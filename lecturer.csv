@@ -1,0 +1,21 @@
+lecturer_id,first_name,last_name,gender,email,phone_number,rank,specialization,department_id
+1,Philip,Lidgett,Male,plidgett0@macromedia.com,675-552-9397,Senior Lecturer,Computer Science,1
+2,Margalit,Killelea,Female,mkillelea1@pcworld.com,790-137-4637,Senior Lecturer,Business Administration,3
+3,Gearard,MacKean,Male,gmackean2@youtube.com,749-791-2356,Visiting Lecturer,Business Administration,6
+4,Celia,Slogrove,Female,cslogrove3@nymag.com,290-189-4307,Senior Lecturer,Business Administration,2
+5,Dur,Gandey,Male,dgandey4@independent.co.uk,992-259-0001,Senior Lecturer,Computer Science,5
+6,Ferdinanda,Sergeant,Female,fsergeant5@eepurl.com,407-785-1451,HOD,Computer Science,9
+7,Barry,Iacomi,Male,biacomi6@diigo.com,642-953-5614,Senior Lecturer,Political Science,3
+8,Patricia,Reeve,Female,preeve7@examiner.com,586-100-0637,Senior Lecturer,Business Administration,10
+9,Quinn,Mowat,Male,qmowat8@pen.io,588-346-2328,Senior Lecturer,Computer Science,6
+10,Eddy,Elie,Male,eelie9@weather.com,319-434-4052,HOD,Engineering,1
+11,Lira,Moberley,Female,lmoberleya@freewebs.com,648-276-5594,Assistant Lecturer,History,3
+12,Teodorico,Stickings,Polygender,tstickingsb@nyu.edu,187-796-5450,Principal Lecturer,Engineering,2
+13,Janenna,Goaley,Female,jgoaleyc@booking.com,742-578-1376,Principal Lecturer,Engineering,9
+14,Quinton,Rulton,Male,qrultond@nationalgeographic.com,157-886-2145,Principal Lecturer,Business Administration,8
+15,Lewes,Burds,Male,lburdse@technorati.com,710-801-2063,Assistant Lecturer,Engineering,3
+16,Zorah,Lovejoy,Female,zlovejoyf@ycombinator.com,688-304-8886,Visiting Lecturer,Engineering,7
+17,Noah,Potkins,Male,npotkinsg@bizjournals.com,789-909-6688,Visiting Lecturer,Education,2
+18,Gottfried,Braisby,Male,gbraisbyh@timesonline.co.uk,526-900-7488,HOD,Political Science,3
+19,Candis,Calbaithe,Female,ccalbaithei@ask.com,319-105-9118,Principal Lecturer,Political Science,9
+20,Levi,Livsey,Male,llivseyj@squarespace.com,413-924-1881,HOD,Computer Science,4

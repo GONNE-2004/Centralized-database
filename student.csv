@@ -1,0 +1,101 @@
+student_id,first_name,last_name,gender,email,phone_number,date_of_birth,address,enrollment_year,department_id
+1,Lorettalorna,Margram,Female,lmargram0@squidoo.com,402-786-7226,8/26/2025,1 Burning Wood Crossing,2022,4
+2,Carmine,Giggs,Female,cgiggs1@deviantart.com,831-597-7858,7/4/2025,0341 Lien Street,2025,8
+3,Lynde,Jurzyk,Female,ljurzyk2@berkeley.edu,145-743-9509,9/11/2025,75839 Gina Center,2024,10
+4,Rouvin,Halahan,Male,rhalahan3@oakley.com,363-137-3943,6/15/2026,697 Manufacturers Avenue,2024,6
+5,Franciskus,Greguoli,Male,fgreguoli4@barnesandnoble.com,214-544-4391,8/17/2025,76 Northland Plaza,2024,6
+6,Worthy,Warstall,Male,wwarstall5@etsy.com,577-858-8566,4/12/2026,121 Jana Plaza,2023,6
+7,Alia,Kelcey,Female,akelcey6@nsw.gov.au,714-565-2807,6/4/2026,8547 Pawling Drive,2023,6
+8,Care,Lawerence,Male,clawerence7@vkontakte.ru,855-565-9481,11/17/2025,95248 Crownhardt Way,2025,9
+9,Deidre,Doget,Female,ddoget8@parallels.com,583-596-9656,11/5/2025,44 Warner Lane,2022,9
+10,Aldis,Atte-Stone,Male,aattestone9@google.cn,552-967-5004,5/19/2026,98123 Starling Hill,2023,7
+11,Sophia,Brim,Genderfluid,sbrima@surveymonkey.com,779-436-9433,8/17/2025,9 Farragut Avenue,2024,7
+12,Ive,Godrich,Agender,igodrichb@home.pl,798-411-9975,6/29/2025,13333 Onsgard Avenue,2024,1
+13,Elia,Galiford,Male,egalifordc@tumblr.com,126-530-8051,12/5/2025,30 Anthes Terrace,2023,6
+14,Elonore,Ennals,Female,eennalsd@nba.com,713-354-4688,4/22/2026,7870 Kedzie Point,2022,6
+15,Worth,Allott,Male,wallotte@addtoany.com,292-284-0964,10/29/2025,13 Debs Point,2022,5
+16,Jonathan,Garritley,Male,jgarritleyf@tiny.cc,735-428-7842,8/19/2025,410 Annamark Road,2024,1
+17,Gerri,Glusby,Male,gglusbyg@opensource.org,218-221-8998,6/22/2025,14 Schiller Point,2023,6
+18,Griff,Meatyard,Male,gmeatyardh@oaic.gov.au,957-185-6010,12/24/2025,3221 Heffernan Alley,2023,8
+19,Donall,Ketcher,Male,dketcheri@hatena.ne.jp,389-934-7448,2/24/2026,9373 Columbus Plaza,2023,9
+20,Morgana,McPheat,Female,mmcpheatj@tamu.edu,668-171-0642,12/10/2025,7673 Valley Edge Drive,2022,4
+21,Jamal,McGhee,Male,jmcgheek@google.ca,856-467-3394,6/26/2025,13469 Maywood Center,2024,6
+22,Giavani,Peggs,Male,gpeggsl@time.com,298-861-3265,11/4/2025,8140 5th Park,2023,6
+23,Rudolfo,Canacott,Non-binary,rcanacottm@yahoo.com,568-762-2916,10/15/2025,31642 Heath Center,2025,6
+24,Isador,Espadero,Male,iespaderon@sourceforge.net,804-808-3426,1/9/2026,121 Monterey Court,2022,2
+25,Moria,Burrill,Female,mburrillo@google.es,798-410-6523,1/26/2026,0 Novick Parkway,2024,8
+26,Arden,MacKessock,Female,amackessockp@pagesperso-orange.fr,228-961-8170,4/6/2026,7 Mccormick Drive,2025,7
+27,Georgina,Devereux,Female,gdevereuxq@europa.eu,940-368-7463,8/23/2025,3 New Castle Drive,2025,3
+28,Ginnifer,Maxsted,Female,gmaxstedr@infoseek.co.jp,851-310-9907,10/5/2025,067 Corscot Hill,2023,7
+29,Rubi,Trank,Female,rtranks@latimes.com,658-724-1694,8/9/2025,10 Carpenter Street,2025,6
+30,Francisca,Hancorn,Female,fhancornt@intel.com,630-992-7922,1/9/2026,0 Canary Point,2022,8
+31,Carmine,Iveans,Female,civeansu@vimeo.com,335-870-6215,4/22/2026,170 Vernon Drive,2025,1
+32,Ardene,Rollings,Female,arollingsv@whitehouse.gov,822-708-3249,12/29/2025,85635 Blaine Plaza,2022,2
+33,Teodora,Shaxby,Female,tshaxbyw@symantec.com,758-810-7662,11/22/2025,57903 Hintze Road,2024,5
+34,Marwin,Rydings,Male,mrydingsx@ifeng.com,587-828-1497,7/16/2025,827 Daystar Road,2022,6
+35,Averil,Vagges,Female,avaggesy@addtoany.com,241-874-4949,1/29/2026,652 Maple Wood Park,2024,9
+36,Helene,Cuniam,Female,hcuniamz@aol.com,649-159-1351,1/3/2026,5697 Delladonna Drive,2022,9
+37,Even,Peeke-Vout,Male,epeekevout10@webmd.com,102-305-3775,5/11/2026,04 Birchwood Avenue,2023,10
+38,Callean,Phlippi,Male,cphlippi11@umich.edu,197-833-5898,2/8/2026,78242 Granby Parkway,2023,3
+39,Mose,Pine,Male,mpine12@hhs.gov,246-751-7192,12/6/2025,652 Monument Lane,2022,5
+40,Claiborn,Nisby,Male,cnisby13@oaic.gov.au,841-726-3007,1/29/2026,0 Schmedeman Lane,2024,1
+41,Martita,Duval,Female,mduval14@sourceforge.net,196-871-0133,7/24/2025,66 Lillian Alley,2024,9
+42,Tatiania,Blenkharn,Agender,tblenkharn15@gmpg.org,382-102-6129,1/18/2026,444 Elka Way,2022,10
+43,Teodoor,Spicer,Male,tspicer16@last.fm,242-583-6995,6/1/2026,5 Rutledge Terrace,2024,8
+44,Catie,Videneev,Female,cvideneev17@fotki.com,669-939-8036,11/2/2025,86 Mariners Cove Terrace,2023,9
+45,Rufe,Eggleton,Male,reggleton18@mediafire.com,921-905-1980,5/17/2026,40 Cordelia Parkway,2024,1
+46,Bea,Tingey,Genderfluid,btingey19@yolasite.com,856-902-4625,3/19/2026,4 Scott Terrace,2022,5
+47,Fabiano,Scudders,Male,fscudders1a@squarespace.com,350-352-3381,11/27/2025,0 Melvin Terrace,2025,3
+48,Coop,Chesterton,Male,cchesterton1b@china.com.cn,739-784-3932,4/21/2026,4 Mariners Cove Lane,2025,1
+49,Bonni,Freshwater,Female,bfreshwater1c@jimdo.com,934-804-8382,4/23/2026,60602 Merry Drive,2023,9
+50,Ashil,Westrey,Female,awestrey1d@mozilla.org,441-846-9853,7/22/2025,245 Orin Terrace,2022,5
+51,Esmeralda,Whitehair,Non-binary,ewhitehair1e@usgs.gov,362-713-1757,11/17/2025,8120 Emmet Alley,2024,9
+52,Town,Woolerton,Male,twoolerton1f@adobe.com,980-251-3426,1/13/2026,207 Hagan Trail,2023,2
+53,Grayce,Bolesma,Female,gbolesma1g@cnbc.com,675-325-8625,1/31/2026,64073 Oak Valley Way,2023,8
+54,Tome,Ivel,Male,tivel1h@umich.edu,520-723-6598,12/27/2025,765 Hagan Park,2024,4
+55,Arlene,Haddinton,Female,ahaddinton1i@51.la,711-611-5900,4/19/2026,41721 Russell Road,2025,6
+56,Devlen,Belchem,Male,dbelchem1j@discuz.net,465-853-8570,11/19/2025,91 Alpine Place,2022,8
+57,Candida,Riveles,Female,criveles1k@kickstarter.com,574-663-0308,10/6/2025,7614 Paget Way,2025,9
+58,Julee,Devons,Female,jdevons1l@jigsy.com,235-894-2884,9/28/2025,2365 Colorado Place,2024,6
+59,Orrin,Domenichelli,Male,odomenichelli1m@vk.com,773-274-1719,12/24/2025,2812 Cody Center,2025,6
+60,Gay,Rothermel,Male,grothermel1n@e-recht24.de,556-117-2899,7/21/2025,52770 Mockingbird Trail,2023,9
+61,Case,Sabben,Male,csabben1o@globo.com,520-839-4808,1/23/2026,86 Longview Street,2025,1
+62,Asher,Yaus,Polygender,ayaus1p@alexa.com,452-459-0705,1/25/2026,9 Messerschmidt Way,2022,2
+63,Sigismundo,Storrie,Male,sstorrie1q@go.com,926-128-4843,2/28/2026,18570 Sutteridge Trail,2022,6
+64,Corena,Greatrex,Female,cgreatrex1r@narod.ru,227-382-0026,9/28/2025,9084 Reinke Point,2025,1
+65,Carl,Le Marquand,Male,clemarquand1s@washingtonpost.com,842-375-3285,8/4/2025,71185 Manley Park,2023,2
+66,Elspeth,Runham,Female,erunham1t@t-online.de,135-524-5981,3/11/2026,40 Bluejay Plaza,2025,7
+67,Tiphani,Scrooby,Female,tscrooby1u@cnn.com,428-890-3158,6/20/2025,526 Arkansas Junction,2025,7
+68,Forest,Vasile,Male,fvasile1v@xinhuanet.com,725-620-5943,11/3/2025,1 Nevada Point,2024,10
+69,Garner,Alcide,Male,galcide1w@timesonline.co.uk,940-182-4647,6/13/2026,72768 Thackeray Drive,2023,3
+70,Hyacinthie,Geraudy,Female,hgeraudy1x@google.ca,827-804-1673,1/19/2026,327 Spenser Junction,2024,7
+71,Brandi,Croote,Female,bcroote1y@prlog.org,357-213-4390,1/14/2026,08 Lunder Point,2022,8
+72,Evy,Sheer,Female,esheer1z@goo.ne.jp,752-949-9363,7/11/2025,6 Ramsey Drive,2024,3
+73,Tuckie,Matzl,Male,tmatzl20@tiny.cc,409-528-4121,2/14/2026,81214 Hallows Park,2025,4
+74,Blanche,Dorricott,Genderqueer,bdorricott21@mac.com,618-787-0282,12/31/2025,6 Wayridge Circle,2022,2
+75,Waylan,Gilham,Male,wgilham22@nbcnews.com,586-191-8400,10/29/2025,77 Grasskamp Lane,2022,5
+76,Bobina,Crutch,Female,bcrutch23@clickbank.net,591-831-5623,2/25/2026,1 Onsgard Street,2023,10
+77,Eadith,Snead,Female,esnead24@berkeley.edu,321-931-7846,9/25/2025,276 Division Way,2025,8
+78,Stormie,Mapham,Female,smapham25@miitbeian.gov.cn,918-962-7216,8/1/2025,18 Mandrake Alley,2025,1
+79,Lana,Seabridge,Female,lseabridge26@hc360.com,164-603-9938,10/5/2025,178 Farragut Terrace,2023,10
+80,Wallie,Jeandillou,Female,wjeandillou27@friendfeed.com,951-570-0756,5/13/2026,88492 Dorton Center,2025,1
+81,Julio,Liffe,Male,jliffe28@redcross.org,632-833-9026,10/31/2025,0278 Almo Trail,2022,10
+82,Torrence,Gresty,Male,tgresty29@newsvine.com,956-132-3048,12/23/2025,09 Crowley Terrace,2023,2
+83,Dallon,Briztman,Polygender,dbriztman2a@google.ru,866-606-6101,12/26/2025,86318 Loeprich Court,2024,2
+84,Jenica,Sabates,Agender,jsabates2b@tinyurl.com,879-834-0947,12/1/2025,3 Meadow Valley Court,2025,3
+85,Ariella,Piche,Female,apiche2c@tripadvisor.com,402-366-0212,5/5/2026,77 Boyd Center,2022,3
+86,Godiva,Swinford,Female,gswinford2d@mozilla.com,783-161-9773,11/4/2025,664 Blue Bill Park Pass,2022,4
+87,Brittaney,Sleford,Female,bsleford2e@columbia.edu,498-740-4966,9/27/2025,2 Miller Drive,2024,10
+88,Heloise,Greggersen,Female,hgreggersen2f@nbcnews.com,337-280-9619,2/21/2026,496 Manufacturers Circle,2023,9
+89,Lancelot,Beldam,Male,lbeldam2g@miibeian.gov.cn,453-176-8638,9/13/2025,45 Declaration Junction,2025,1
+90,Town,Soper,Male,tsoper2h@sitemeter.com,556-821-6394,9/24/2025,40066 Lyons Park,2025,10
+91,Gilberta,Merioth,Female,gmerioth2i@oaic.gov.au,115-229-3271,3/2/2026,230 Grasskamp Way,2024,1
+92,Ronald,Strivens,Male,rstrivens2j@topsy.com,466-275-7351,1/21/2026,9 Transport Way,2023,9
+93,Darryl,Yewen,Male,dyewen2k@netscape.com,616-179-5797,7/16/2025,21 Scott Pass,2025,6
+94,Waylen,Ollerhead,Genderqueer,wollerhead2l@latimes.com,963-704-6598,8/9/2025,9425 Linden Terrace,2025,5
+95,Natty,Rogeon,Female,nrogeon2m@nba.com,366-980-0800,5/16/2026,600 Arapahoe Lane,2023,9
+96,Garey,Glenn,Male,gglenn2n@mysql.com,954-146-5379,4/7/2026,728 Melrose Parkway,2022,6
+97,Chad,Waby,Male,cwaby2o@naver.com,879-766-6890,5/29/2026,046 Scoville Center,2024,1
+98,Petunia,Mines,Female,pmines2p@baidu.com,919-905-1749,8/13/2025,38719 Canary Place,2023,9
+99,Britni,Larvin,Female,blarvin2q@google.com.au,873-892-3466,7/23/2025,29 Anhalt Way,2022,3
+100,Amery,Hollier,Agender,ahollier2r@behance.net,749-249-9185,9/29/2025,4439 Derek Park,2023,9
