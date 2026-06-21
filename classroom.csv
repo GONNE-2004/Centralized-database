@@ -1,0 +1,11 @@
+classroom_id,room_number,capacity,building
+1,A101,130,Science Block
+2,A102,126,ICT Building
+3,A103,133,ICT Building
+4,A104,153,ICT Building
+5,A105,101,Science Block
+6,B201,200,Science Block
+7,B202,140,Science Block
+8,B203,99,ICT Building
+9,B204,93,Main Building
+10,B205,167,Main Building

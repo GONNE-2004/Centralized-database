@@ -1,0 +1,21 @@
+resource_id,resource_name,quantity,department_id
+1,Switches,29,4
+2,Laptops,27,4
+3,Projectors,47,9
+4,Laptops,6,7
+5,Projectors,24,9
+6,Chairs,1,2
+7,Desktop Computers,17,8
+8,Tables,46,7
+9,Projectors,46,8
+10,Servers,11,8
+11,Servers,41,3
+12,Desktop Computers,45,9
+13,Desktop Computers,48,5
+14,Laptops,11,8
+15,Projectors,14,4
+16,Switches,24,5
+17,Tables,3,4
+18,Whiteboards,16,6
+19,Chairs,2,7
+20,Printers,22,10

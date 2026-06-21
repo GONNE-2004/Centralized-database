@@ -1,0 +1,16 @@
+event_id,event_name,event_date,venue,organizer_id
+1,Innovation Day,10/31/2016,ICT Building,1
+2,Open Day,11/5/2024,Engineering Block,13
+3,Open Day,7/29/2030,Conference Room A,1
+4,Career Fair,8/12/2015,Conference Room B,16
+5,AI Symposium,11/6/2021,Main Hall,18
+6,Cybersecurity Workshop,6/1/2025,Conference Room A,20
+7,Open Day,11/8/2016,Main Hall,20
+8,Programming Contest,2/5/2030,Conference Room B,20
+9,AI Symposium,10/12/2016,Conference Room B,1
+10,Research Conference,3/27/2024,ICT Building,12
+11,Data Science Seminar,5/26/2027,Main Hall,19
+12,Cybersecurity Workshop,9/26/2028,Engineering Block,4
+13,Innovation Day,4/6/2020,Conference Room A,20
+14,Open Day,1/15/2017,Engineering Block,16
+15,Data Science Seminar,7/12/2017,Main Hall,19

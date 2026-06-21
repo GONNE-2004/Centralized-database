@@ -1,0 +1,31 @@
+course_id,course_code,course_name,credits,semester,department_id
+1,SWE301,Introduction to Computer Science,4,Fall,3
+2,SWE302,Web Development,6,Fall,7
+3,SWE303,Computer Architecture,1,Summer,10
+4,SWE304,Distributed Systems,1,Summer,3
+5,SWE305,Computer Architecture,6,Fall,4
+6,SWE306,Calculus I,6,Summer,2
+7,SWE307,Human Computer Interaction,2,Summer,5
+8,SWE308,Operating Systems,4,Summer,5
+9,SWE309,Probability and Statistics,6,Spring,2
+10,SWE310,Embedded Systems,5,Spring,6
+11,CS301,Probability and Statistics,5,Summer,7
+12,CS302,Linear Algebra,2,Fall,8
+13,CS303,Project Management,6,Fall,3
+14,CS304,Human Computer Interaction,4,Fall,3
+15,CS305,Computer Architecture,2,Spring,4
+16,CS306,Machine Learning,4,Summer,9
+17,CS307,Project Management,6,Summer,7
+18,CS308,Project Management,6,Spring,1
+19,CS309,Computer Graphics,6,Summer,9
+20,CS310,Probability and Statistics,2,Spring,5
+21,IS301,Cloud Computing,2,Summer,6
+22,IS302,Project Management,3,Fall,4
+23,IS303,Embedded Systems,6,Summer,8
+24,IS304,Digital Logic,3,Spring,1
+25,IS305,Information Systems,3,Spring,10
+26,IS306,Computer Networks,4,Summer,1
+27,IS307,Project Management,1,Summer,4
+28,IS308,Data Science,1,Spring,10
+29,IS309,Human Computer Interaction,3,Summer,2
+30,IS310,Algorithms,3,Summer,10

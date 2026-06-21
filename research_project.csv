@@ -1,0 +1,21 @@
+project_id,title,start_date,end_date,status,lecturer_id
+1,Data Mining for Education,11/21/2030,2/27/2019,Planned,6
+2,Smart Agriculture System,8/3/2017,11/7/2018,Active,19
+3,Cybersecurity Threat Detection,6/27/2021,9/12/2015,Completed,15
+4,Smart Traffic Management,2/25/2028,5/30/2016,Suspended,14
+5,Autonomous Vehicle Navigation,1/13/2025,3/29/2029,Completed,4
+6,Smart Traffic Management,2/9/2022,6/8/2030,Completed,9
+7,Cloud Storage Optimization,9/21/2022,3/18/2031,Suspended,12
+8,Cloud Storage Optimization,5/31/2030,8/27/2033,Planned,7
+9,Cybersecurity Threat Detection,2/8/2026,10/3/2029,Suspended,5
+10,Blockchain Voting System,6/7/2018,11/8/2019,Completed,7
+11,AI-Based Healthcare Monitoring,1/13/2018,9/9/2029,Planned,5
+12,Blockchain Voting System,5/17/2029,10/8/2025,Suspended,9
+13,IoT Energy Management,9/16/2022,1/19/2032,Planned,5
+14,IoT Energy Management,3/5/2020,9/20/2031,Planned,16
+15,AI-Based Healthcare Monitoring,1/8/2028,12/1/2031,Completed,16
+16,Cybersecurity Threat Detection,10/29/2016,10/25/2016,Planned,16
+17,Smart Traffic Management,6/30/2028,3/21/2024,Active,13
+18,IoT Energy Management,4/19/2022,9/7/2015,Suspended,16
+19,Machine Learning for Finance,3/18/2019,3/31/2024,Active,6
+20,Machine Learning for Finance,10/21/2015,9/10/2034,Completed,5
