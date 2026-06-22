@@ -1,0 +1,9 @@
+EXPLAIN ANALYZE
+SELECT *
+FROM course
+WHERE department_id = 4;
+
+EXPLAIN ANALYZE
+SELECT *
+FROM course
+WHERE credits >= 4;
